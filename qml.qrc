@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RoundMouseArea.qml</file>
+        <file>BubbleWin.qml</file>
+        <file>bull.ico</file>
+        <file>MyIcon.icns</file>
+    </qresource>
+</RCC>
