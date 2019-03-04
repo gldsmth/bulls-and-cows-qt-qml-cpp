@@ -1,5 +1,6 @@
 # bulls-and-cows-qt-qml-cpp
-Bulls and Cows game implemented with GUI in Qt/QML/C++
+Bulls and Cows game implemented with GUI in Qt/QML/C++\
+https://en.wikipedia.org/wiki/Bulls_and_Cows
 ## Installation
 Build and run with Qt Creator. Should work with Qt 5.\
 Open project -> BullsAndCows.pro\
